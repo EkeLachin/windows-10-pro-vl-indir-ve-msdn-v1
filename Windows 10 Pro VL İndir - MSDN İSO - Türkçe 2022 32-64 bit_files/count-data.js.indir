@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"ve","comments":{"zero":"0 Yorum","multiple":"{num} Yorum","one":"1 Yorum"}},"counts":[{"id":"129168 http:\/\/www.fullprogramlarindir.com\/?p=129168","comments":195}]});
+}
